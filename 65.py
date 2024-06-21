@@ -1,0 +1,11 @@
+Z = ["Good", "Morning", "to", "All", "My", "Dear", "Friends"]
+print(Z)
+print(type(Z))
+print(Z[0])
+print(Z[1])
+print(Z[2])
+print(Z[3])
+print(Z[-4])
+print(Z[-3])
+print(Z[-2])
+print(Z[-1])

@@ -1,0 +1,13 @@
+student = ["Darshil", 22, "Ahmedabad", 67.5]
+print("\n",student)
+print(len(student))
+print(type(student))
+print(student[0])
+print(student[1])
+print(student[2])
+print(student[3])
+print(student[-1])
+print(student[-2])
+print(student[-3])
+print(student[-4])
+print("\n")
